@@ -12,9 +12,7 @@ Proyek ini berisi analisis data stunting balita menggunakan dataset AnakSehat AI
 dashboard_anaksehat/
 │
 ├── dashboard_anaksehat.py          # Aplikasi dashboard Streamlit
-├── data_final_AnakSehat.csv        # Dataset final (sudah melalui proses cleaning & feature engineering)
 ├── notebook.ipynb                  # Notebook analisis lengkap
-├── Data_Dictionary_AnakSehat.docx  # Dokumentasi kolom dataset
 └── README.md                       # File ini
 ```
 
