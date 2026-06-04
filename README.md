@@ -7,7 +7,15 @@ Proyek ini berisi analisis data stunting balita menggunakan dataset AnakSehat AI
 ---
 ## Tentang Proyek
 
-Proyek **AnakSehat AI** dikembangkan sebagai bagian dari **Capstone Project Coding Camp 2026 Powered by DBS Foundation**. Proyek ini bertujuan menganalisis kondisi stunting pada balita usia 0–24 bulan melalui proses data wrangling, exploratory data analysis, feature engineering, serta visualisasi interaktif menggunakan Streamlit.
+Proyek **AnakSehat AI** dikembangkan sebagai bagian dari **Capstone Project Coding Camp 2026 Powered by DBS Foundation**.
+
+Proyek ini bertujuan menganalisis kondisi stunting pada balita usia 0–24 bulan melalui proses:
+
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Visualization & Explanatory Analysis
+- Dashboard Interaktif menggunakan Streamlit
 ---
 
 ## Struktur Folder
