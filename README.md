@@ -12,11 +12,13 @@ Proyek ini berisi analisis data stunting balita menggunakan dataset AnakSehat AI
 AnakSehatAI/
 │
 ├── dashboard/
-│   ├── dashboard_data_AnakSehat.py    # Aplikasi dashboard Streamlit
-│   └── data/
-│       └── data_final_AnakSehat.csv   # Dataset final hasil cleaning & feature engineering
+│   ├── data/
+│   │   └── data_final_AnakSehat.csv
+│   │
+│   └── dashboard_data_AnakSehat.py
 │
-├── data_raw/                          # Dataset mentah
+├── data_raw/
+│   └── stunting_wasting_dataset.csv
 │
 ├── Data Dictionary - Dataset AnakSehat AI.pdf
 ├── Laporan Teknis Data Science.pdf
