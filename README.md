@@ -9,11 +9,20 @@ Proyek ini berisi analisis data stunting balita menggunakan dataset AnakSehat AI
 ## Struktur Folder
 
 ```
-dashboard_anaksehat/
+AnakSehatAI/
 │
-├── dashboard_anaksehat.py          # Aplikasi dashboard Streamlit
-├── notebook.ipynb                  # Notebook analisis lengkap
-└── README.md                       # File ini
+├── dashboard/
+│   ├── dashboard_data_AnakSehat.py    # Aplikasi dashboard Streamlit
+│   └── data/
+│       └── data_final_AnakSehat.csv   # Dataset final hasil cleaning & feature engineering
+│
+├── data_raw/                          # Dataset mentah
+│
+├── Data Dictionary - Dataset AnakSehat AI.pdf
+├── Laporan Teknis Data Science.pdf
+├── Notebook_Analisis_Data_AnakSehat_AI.ipynb
+├── README.md
+└── requirements.txt
 ```
 
 ---
