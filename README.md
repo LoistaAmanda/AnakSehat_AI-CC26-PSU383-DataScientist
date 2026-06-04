@@ -9,7 +9,7 @@ Proyek ini berisi analisis data stunting balita menggunakan dataset AnakSehat AI
 
 Proyek **AnakSehat AI** dikembangkan sebagai bagian dari **Capstone Project Coding Camp 2026 Powered by DBS Foundation** dengan tema **Healthy Lives & Well-being**.
 
-Tema ini berfokus pada peningkatan kualitas kesehatan dan kesejahteraan masyarakat melalui pemanfaatan teknologi dan data. Dalam proyek ini, tema tersebut diwujudkan melalui analisis data stunting pada balita usia 0–24 bulan untuk membantu memahami pola pertumbuhan anak dan mendukung upaya pencegahan stunting sejak dini.
+Tema ini pada dasarnya berbicara soal bagaimana teknologi dan data bisa bermanfaat untuk meningkatkan kualitas kesehatan dan kesejahteraan masyarakat. Dalam proyek ini  kami mencoba mewujudkan tema melalui analisis data stunting pada balita usia 0-24 bulan, Kami berharap dapat membantu memahami pola pertumbuhan anak dan mendukung pencegahan stunting sejak dini.
 
 Proyek ini mencakup proses data wrangling, exploratory data analysis (EDA), feature engineering, visualisasi data, explanatory analysis, serta pengembangan dashboard interaktif menggunakan Streamlit.
 
