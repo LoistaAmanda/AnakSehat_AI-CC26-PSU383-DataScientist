@@ -183,6 +183,8 @@ Berikut adalah 5 pertanyaan bisnis yang dijawab dalam notebook dan dashboard:
 - Nilai WAZ (Weight-for-Age Z-Score) dan BAZ (BMI-for-Age Z-Score) dihitung menggunakan referensi WHO Child Growth Standards berdasarkan usia dan jenis kelamin balita.
 - Dashboard dikembangkan menggunakan **Streamlit** dengan visualisasi berbasis **Matplotlib** dan **Seaborn**.
 
+---
+
 ## Tim Capstone - CC26-PSU383 - AnakSehat AI
 
 | Nama                     | ID Peserta     | Peran                    | Institusi                                    |
