@@ -182,3 +182,16 @@ Berikut adalah 5 pertanyaan bisnis yang dijawab dalam notebook dan dashboard:
 
 - Nilai WAZ (Weight-for-Age Z-Score) dan BAZ (BMI-for-Age Z-Score) dihitung menggunakan referensi WHO Child Growth Standards berdasarkan usia dan jenis kelamin balita.
 - Dashboard dikembangkan menggunakan **Streamlit** dengan visualisasi berbasis **Matplotlib** dan **Seaborn**.
+
+## Tim Capstone - CC26-PSU383 - AnakSehat AI
+
+| Nama                     | ID Peserta     | Peran                    | Institusi                                    |
+| ------------------------ | -------------- | ------------------------ | -------------------------------------------- |
+| Ilyas Abdul Aziz         | CDCC156D6Y1398 | Data Scientist           | Sekolah Tinggi Teknologi Terpadu Nurul Fikri |
+| Loista Amanda Noviar     | CDCC156D6X0822 | Data Scientist           | Sekolah Tinggi Teknologi Terpadu Nurul Fikri |
+| Muhammad Afif Naufal     | CFCC156D6Y2857 | Full Stack Web Developer | Sekolah Tinggi Teknologi Terpadu Nurul Fikri |
+| Luthfiyah Syaharani      | CFCC156D6X1967 | Full Stack Web Developer | Sekolah Tinggi Teknologi Terpadu Nurul Fikri |
+| Muh. Asfahany Al Ghifari | CACC136D6Y0194 | AI Engineer              | Politeknik Perkapalan Negeri Surabaya        |
+| Silviani                 | CACC367D6X2573 | AI Engineer              | Institut Teknologi Garut                     |
+
+
