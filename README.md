@@ -196,4 +196,9 @@ Berikut adalah 5 pertanyaan bisnis yang dijawab dalam notebook dan dashboard:
 | Muh. Asfahany Al Ghifari | CACC136D6Y0194 | AI Engineer              | Politeknik Perkapalan Negeri Surabaya        |
 | Silviani                 | CACC367D6X2573 | AI Engineer              | Institut Teknologi Garut                     |
 
+---
+
+Coding Camp 2026 Powered by DBS Foundation
+Capstone Project – AnakSehat AI
+
 
