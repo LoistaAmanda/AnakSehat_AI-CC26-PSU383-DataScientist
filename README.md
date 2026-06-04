@@ -1,12 +1,12 @@
-# 🌿 AnakSehat AI — Analisis Stunting Balita Usia 0–24 Bulan
+# AnakSehat AI — Analisis Stunting Balita Usia 0–24 Bulan
 
 Proyek ini berisi analisis data stunting balita menggunakan dataset AnakSehat AI. Terdiri dari notebook eksplorasi data dan dashboard interaktif berbasis Streamlit.
 
-🔗 **Live Dashboard:** [https://dashboard-data-anaksehat.streamlit.app/](https://dashboard-data-anaksehat.streamlit.app/)
+ **Live Dashboard:** [https://dashboard-data-anaksehat.streamlit.app/](https://dashboard-data-anaksehat.streamlit.app/)
 
 ---
 
-## 📁 Struktur Folder
+## Struktur Folder
 
 ```
 dashboard_anaksehat/
@@ -18,7 +18,7 @@ dashboard_anaksehat/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 | Informasi | Detail |
 |---|---|
@@ -55,7 +55,7 @@ dashboard_anaksehat/
 
 ---
 
-## 📓 Notebook_Analisis_Data_AnakSehat_AI.ipynb 
+## Notebook_Analisis_Data_AnakSehat_AI.ipynb 
 
 Notebook ini memuat seluruh alur analisis data secara sistematis, mulai dari pengumpulan data hingga pembuatan fitur baru.
 
@@ -97,7 +97,7 @@ sklearn (MinMaxScaler)
 
 ---
 
-## 🖥️ Dashboard (`dashboard_anaksehat.py`)
+## Dashboard (`dashboard_anaksehat.py`)
 
 Dashboard interaktif yang menyajikan visualisasi dari 5 pertanyaan bisnis beserta insight dan kesimpulan analisis.
 
@@ -125,7 +125,7 @@ seaborn
 
 ---
 
-## ⚙️ Cara Menjalankan Dashboard Secara Lokal
+## Cara Menjalankan Dashboard Secara Lokal
 
 ### 1. Pastikan Python telah terinstal
 ```bash
@@ -159,7 +159,7 @@ http://localhost:8501
 
 ---
 
-## ❓ Pertanyaan Bisnis
+## Pertanyaan Bisnis
 
 Berikut adalah 5 pertanyaan bisnis yang dijawab dalam notebook dan dashboard:
 
@@ -171,14 +171,14 @@ Berikut adalah 5 pertanyaan bisnis yang dijawab dalam notebook dan dashboard:
 
 ---
 
-## 📈 Insight Utama
+## Insight Utama
 
 - Distribusi kasus stunting berbeda pada setiap kelompok usia dan jenis kelamin.
 - Tinggi badan dan berat badan menunjukkan hubungan yang jelas terhadap status stunting.
 - Balita kategori Severely Stunted memiliki pola pertumbuhan yang berbeda dibandingkan kategori Normal.
 - Feature engineering menggunakan indikator WAZ, BMI, dan BAZ membantu memberikan gambaran kondisi pertumbuhan balita secara lebih komprehensif.
 
-## 📌 Catatan
+##  Catatan
 
 - Nilai WAZ (Weight-for-Age Z-Score) dan BAZ (BMI-for-Age Z-Score) dihitung menggunakan referensi WHO Child Growth Standards berdasarkan usia dan jenis kelamin balita.
 - Dashboard dikembangkan menggunakan **Streamlit** dengan visualisasi berbasis **Matplotlib** dan **Seaborn**.
