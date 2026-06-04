@@ -5,6 +5,10 @@ Proyek ini berisi analisis data stunting balita menggunakan dataset AnakSehat AI
  **Live Dashboard:** [https://dashboard-data-anaksehat.streamlit.app/](https://dashboard-data-anaksehat.streamlit.app/)
 
 ---
+## Tentang Proyek
+
+Proyek **AnakSehat AI** dikembangkan sebagai bagian dari **Capstone Project Coding Camp 2026 Powered by DBS Foundation**. Proyek ini bertujuan menganalisis kondisi stunting pada balita usia 0–24 bulan melalui proses data wrangling, exploratory data analysis, feature engineering, serta visualisasi interaktif menggunakan Streamlit.
+---
 
 ## Struktur Folder
 
@@ -62,13 +66,13 @@ AnakSehatAI/
 
 
 
-> Penjelasan lengkap setiap kolom tersedia pada file `Data_Dictionary_AnakSehat.docx`.
+> Penjelasan lengkap setiap kolom tersedia pada file `Data Dictionary - Dataset AnakSehat AI.pdf`.
 
 ---
 
 ## Notebook_Analisis_Data_AnakSehat_AI.ipynb 
 
-Notebook ini memuat seluruh alur analisis data secara sistematis, mulai dari pengumpulan data hingga pembuatan fitur baru.
+Notebook ini memuat seluruh alur analisis data secara sistematis, mulai dari pengumpulan data hingga pembuatan fitur baru. Notebook juga menyajikan visualisasi data dan explanatory analysis untuk menjawab lima pertanyaan bisnis utama yang telah ditentukan pada proyek ini.
 
 ### Alur Analisis
 
@@ -108,7 +112,7 @@ sklearn (MinMaxScaler)
 
 ---
 
-## Dashboard (`dashboard_anaksehat.py`)
+## Dashboard (`dashboard_data_AnakSehat.py`)
 
 Dashboard interaktif yang menyajikan visualisasi dari 5 pertanyaan bisnis beserta insight dan kesimpulan analisis.
 
@@ -150,16 +154,20 @@ pip install streamlit pandas matplotlib seaborn
 ```
 
 ### 3. Pastikan struktur folder telah sesuai
+
 ```
-dashboard_anaksehat/
-├── dashboard_anaksehat.py
-└── data_final_AnakSehat.csv
+AnakSehatAI/
+│
+├── dashboard/
+│   ├── dashboard_data_AnakSehat.py
+│   └── data/
+│       └── data_final_AnakSehat.csv
 ```
+
 
 ### 4. Jalankan dashboard
 ```bash
-cd dashboard_anaksehat
-streamlit run dashboard_anaksehat.py
+streamlit run dashboard/dashboard_data_AnakSehat.py
 ```
 
 ### 5. Akses melalui browser
